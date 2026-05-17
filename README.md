@@ -34,12 +34,12 @@ Ce projet implémente et compare différents algorithmes de recherche pour réso
 
 ### Boxplots
 
-![Boxplots](Résultats/boxplots.png)
+![Boxplots](results/boxplots.png)
 
 ### Pie Charts
 
-![Pie Charts](Résultats/pie_charts.png)
+![Pie Charts](results/pie_charts.png)
 
 ### Radar Chart
 
-![Radar Chart](Résultats/radar_chart.png)
+![Radar Chart](results/radar_chart.png)
