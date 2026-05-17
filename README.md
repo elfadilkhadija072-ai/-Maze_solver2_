@@ -22,7 +22,6 @@ Ce projet implémente et compare différents algorithmes de recherche pour réso
 ├── config_maze.py       # Configuration et génération du labyrinthe
 ├── visualization.py     # Logique de rendu des graphiques
 ├── Dockerfile           # Configuration pour la conteneurisation
-<<<<<<< HEAD
 ├── boxplots.png         # Graphique des performances
 ├── pie_charts.png       # Répartition par algorithme
 ├── radar_chart.png      # Comparaison multi-critères
