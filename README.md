@@ -28,22 +28,18 @@ Ce projet implémente et compare différents algorithmes de recherche pour réso
 ├── radar_chart.png      # Comparaison multi-critères
 └── README.md            # Documentation du projet
 
-# Maze Solver AI
 
-Projet de résolution de labyrinthe utilisant des algorithmes de recherche.
 
-## Boxplots Results
+## Results
+
+### Boxplots
 
 ![Boxplots](Résultats/boxplots.png)
 
----
-
-## Pie Charts Results
+### Pie Charts
 
 ![Pie Charts](Résultats/pie_charts.png)
 
----
-
-## Radar Chart Results
+### Radar Chart
 
 ![Radar Chart](Résultats/radar_chart.png)
