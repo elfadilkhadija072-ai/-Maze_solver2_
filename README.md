@@ -22,17 +22,28 @@ Ce projet implémente et compare différents algorithmes de recherche pour réso
 ├── config_maze.py       # Configuration et génération du labyrinthe
 ├── visualization.py     # Logique de rendu des graphiques
 ├── Dockerfile           # Configuration pour la conteneurisation
+<<<<<<< HEAD
 ├── boxplots.png         # Graphique des performances
 ├── pie_charts.png       # Répartition par algorithme
 ├── radar_chart.png      # Comparaison multi-critères
 └── README.md            # Documentation du projet
-## 📊 Visualisation des Résultats
 
-### Distribution des performances
-![Boxplot](./boxplots.png)
+# Maze Solver AI
 
-### Répartition par algorithme
-![Pie Chart](./pie_charts.png)
+Projet de résolution de labyrinthe utilisant des algorithmes de recherche.
 
-### Comparaison multi-critères
-![Radar Chart](./radar_chart.png)
+## Boxplots Results
+
+![Boxplots](Résultats/boxplots.png)
+
+---
+
+## Pie Charts Results
+
+![Pie Charts](Résultats/pie_charts.png)
+
+---
+
+## Radar Chart Results
+
+![Radar Chart](Résultats/radar_chart.png)
