@@ -28,18 +28,13 @@ Ce projet implémente et compare différents algorithmes de recherche pour réso
 ├── radar_chart.png      # Comparaison multi-critères
 └── README.md            # Documentation du projet
 
+# Maze Solver Project
 
-
-## Results
-
-### Boxplots
-
+## Boxplots
 ![Boxplots](results/boxplots.png)
 
-### Pie Charts
-
+## Pie Charts
 ![Pie Charts](results/pie_charts.png)
 
-### Radar Chart
-
+## Radar Chart
 ![Radar Chart](results/radar_chart.png)
